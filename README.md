@@ -9,7 +9,12 @@ either by selecting any country on the map or searching for it. Using JSON, the 
 is returned and shown on screen. Finally the data retrieved can be stored in a database.
 
 Worked on by:
+
 Vraj Shah (biv147)
+
 Preet Khasakia (pkhasakia) 
+
 Sunil Tumkur (sunilt4)
+
 Omair Farooqui (omairf)
+
