@@ -1,6 +1,6 @@
 # Covid-19-Application
 
-###Java, Android, JSON, SQLite, Google Maps API
+###Java, Android, JSON, SQLite, Google Maps API###
 
 This is an application that shows users the global statistics of Covid-19. 
 
